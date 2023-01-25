@@ -57,7 +57,7 @@ header > p {
     font-size: 1.2em;
     max-width: 500px; /*Para o parágrafo ficar contido no centro*/
     margin: auto; /*para ficar centralizado*/
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     padding-right: 10px;
     padding-left: 10px;
     text-shadow: 1px 1px 0px #0000006e;    
